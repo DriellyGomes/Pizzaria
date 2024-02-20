@@ -1,0 +1,42 @@
+
+.topo{
+    background-color: var(--color-azul-claro);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 136px;
+    font-family: var(--font-bold);
+    font-size: 3rem;  
+}
+
+.topo__marca {
+   
+    color: var(--color-preto); 
+    
+}
+
+.topo__titulo {
+
+    color: var(--color-azul-escuro); 
+    padding-left: 8xp;
+}
+
+/* FOOTER */ 
+
+.rodape{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+    font-size: 1rem;
+    gap: 104px;
+    background-color: var(--color-azul-claro);
+}
+
+.rodape_endereco{
+
+}
+
+.rodape__icones{
+    font-size: 1.25rem;
+}
